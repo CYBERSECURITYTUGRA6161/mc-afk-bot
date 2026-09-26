@@ -1,10 +1,10 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'FinalLifeRun.aternos.me', // CHANGE IP
-  port: 62549,             // CHANGE PORT
+  host: 'oynacanvasmc.aternos.me', // CHANGE IP
+  port: 50559,             // CHANGE PORT
   username: 'AFK_Bot',     // CHANGE THE USERNAME
-  version: '1.20.1'        // CHANGE THE VERSION IF YOUR SERVER SUPPORTS A DIFFERENT VERSION
+  version: '26.2'        // CHANGE THE VERSION IF YOUR SERVER SUPPORTS A DIFFERENT VERSION
 });
 
 // 1. SAFE LOGIN LOGIC
